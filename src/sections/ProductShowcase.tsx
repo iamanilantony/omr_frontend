@@ -1,3 +1,5 @@
+
+
 export const ProductShowcase = () => {
   return (
     <section className="bg-gradient-to-b from-[#FFFFFF] to-[#D2DCFF] py-12 md:py-24 overflow-x-clip">
@@ -24,6 +26,8 @@ export const ProductShowcase = () => {
             />
           </div>
         </div>
+        <div className="mt-10">
+      </div>
       </div>
     </section>
   );
